@@ -1,0 +1,65 @@
+#content{
+    margin-left: 243px;
+    margin-right: 415px;
+    margin-top: 70px;
+    padding-left: 30px;
+}
+
+p{
+    font-size: 1.1rem;
+    font-family: monospace;
+}
+
+#h{
+    font-size: 27px;
+    color: green;
+}
+
+.Advertisement-container{
+    display: flex;
+    margin-top: -616px;
+    margin-left: 1167px;
+    flex-direction: column;
+    
+}
+
+.advertisement{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-style: solid;
+    border-radius: 2px;
+    border: 1px solid rgb(1, 1, 1)!important;
+}
+
+
+.flex flex-row mt-0 mr-6 space-x-8 text-sm font-medium li a {
+    color: blue;
+}
+
+.w3-bar{
+    padding: 29px;
+    text-align: center;
+    word-spacing: 34px;
+
+}
+
+.w3-black, .w3-hover-black:hover {
+    color: #fff!important;
+    background-color: #000!important;
+}
+
+.w3-btn, .w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+}
+.advertisement p{
+    text-align: center;
+}
+
+#py-3 px-4 mx-auto max-w-screen-xl md:px-6{
+    background-color: black;
+}
